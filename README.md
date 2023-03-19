@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FaheemOnHub
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning c/c++
+- 🌱 I’m currently learning c/c++ , Full Stack Development
 - 💞️ I’m looking to collaborate on language learning and contributing to hackathons
 - 📫 How to reach me faheemmushtaq89@gmail.com
 
