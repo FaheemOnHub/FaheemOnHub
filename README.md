@@ -14,3 +14,6 @@ Badges Awarded:
  <a href= "https://cloud.layer5.io/user/1bf5e15f-0c87-4452-b8f0-9053bc6d66e8?tab=badges&badge=ui-ux" >
     <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" alt = "UI/UX" />
   </a >
+   <a href= "https://cloud.layer5.io/user/1bf5e15f-0c87-4452-b8f0-9053bc6d66e8?tab=badges&badge=first-design" >
+    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-design/first-design.png" alt = "First Design" />
+  </a >
