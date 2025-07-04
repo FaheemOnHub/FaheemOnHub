@@ -24,14 +24,14 @@
 
 <p align="left">
   <a href="https://cloud.layer5.io/user/1bf5e15f-0c87-4452-b8f0-9053bc6d66e8?tab=badges&badge=ui-ux" target="_blank">
-    <img width="224px" height="224px" src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" alt="UI/UX Badge" />
+    <img width="180px" height="100%" src="https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" alt="UI/UX Badge" />
   </a>
 
   <a href="https://cloud.layer5.io/user/1bf5e15f-0c87-4452-b8f0-9053bc6d66e8?tab=badges&badge=first-design" target="_blank">
-    <img width="224px" height="224px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" />
+    <img width="180px" height="100%" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design Badge" />
   </a>
   
    <a href= "https://cloud.layer5.io/user/1bf5e15f-0c87-4452-b8f0-9053bc6d66e8?tab=badges&badge=first-interactive-terminal-session" >
-    <img width="224px" height="224px" src = "https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Hip Hacker" />
+    <img width="180px" height="100%" src = "https://badges.layer5.io/assets/badges/first-interactive-terminal-session/first-interactive-terminal-session.png" alt = "Hip Hacker" />
   </a >
 </p>
