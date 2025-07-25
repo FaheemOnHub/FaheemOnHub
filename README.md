@@ -11,10 +11,6 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faheemonhub&show_icons=true&locale=en&include_all_commits=true&bg_color=00000000" alt="GitHub Stats" />
-</p>
-
-<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faheemonhub" alt="GitHub Streak" />
 </p>
 
