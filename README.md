@@ -3,6 +3,11 @@
 </p>
 
 ---
+<p align="left">
+<img src="https://algora.io/og/user/FaheemOnHub" />
+</p>
+
+---
 
 ### 📊 GitHub Stats
 
