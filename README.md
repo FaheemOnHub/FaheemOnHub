@@ -3,6 +3,18 @@
 </p>
 
 ---
+### 🚀 Featured Project
+
+<p align="left">
+  <a href="https://veedcrawl.com" target="_blank">
+    <img src="https://veedcrawl.com/veedcrawl_icon.png" alt="VeedCrawl" width="200" />
+  </a>
+</p>
+
+<p align="left">
+  AI-powered tool to generate hooks, extract insights, and optimize viral video content.
+</p>
+
 <p align="left">
 <img src="https://algora.io/og/user/FaheemOnHub" />
 </p>
