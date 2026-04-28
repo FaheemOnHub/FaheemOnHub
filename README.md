@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
- Veedcrawl gives developers the infrastructure to extract transcripts, metadata, and structured AI insights from any social media video.
+ Veedcrawl gives ai-agents the infrastructure to extract transcripts, metadata, and structured AI insights from any social media video.
 </p>
 
 <p align="left">
