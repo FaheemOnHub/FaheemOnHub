@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  AI-powered tool to generate hooks, extract insights, and optimize viral video content.
+ Veedcrawl gives developers the infrastructure to extract transcripts, metadata, and structured AI insights from any social media video.
 </p>
 
 <p align="left">
