@@ -20,11 +20,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faheemonhub&show_icons=true&locale=en&layout=compact&bg_color=00000000" alt="Top Languages" />
-</p>
-
----
