@@ -4,17 +4,6 @@
 
 ---
 ### 🚀 Featured Project
-
-<p align="left">
-  <a href="https://veedcrawl.com" target="_blank">
-    <img src="https://veedcrawl.com/veedcrawl_icon.png" alt="VeedCrawl" width="200" />
-  </a>
-</p>
-
-<p align="left">
- Veedcrawl gives ai-agents the infrastructure to extract transcripts, metadata, and structured AI insights from any social media video.
-</p>
-
 <p align="left">
 <img src="https://algora.io/og/user/FaheemOnHub" />
 </p>
